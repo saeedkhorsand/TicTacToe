@@ -29,7 +29,7 @@ This is a **fun experiment** to explore different ways of implementing Tic-Tac-T
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-tree.git
+   git clone https://github.com/saeedkhorsand/TicTacToe.git
    ```
 
 2. Open the project in Visual Studio or your preferred IDE.
